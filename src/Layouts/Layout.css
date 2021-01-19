@@ -1,0 +1,35 @@
+.sample-page {
+    min-width: 600px;
+}
+
+.yellow {
+    /* not themable */
+    color: #D67F3C;
+}
+
+.pipelines-page {
+    height: 800px;
+}
+
+.bolt-page > .bolt-tabbar{
+    font-size: 13px;
+    margin-top: 10px;
+    border-bottom: 1px solid #dfdfdf;
+}
+
+.bolt-page .page-content{
+    margin-top: 20px;
+}
+
+div#root {
+    width: 100%;
+}
+
+.ms-Icon--FabricFolderFill {
+    color: darksalmon;
+}
+
+.classfortab .bolt-tabbar-tabs{
+    flex-grow: initial !important;
+}
+

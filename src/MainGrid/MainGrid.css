@@ -1,0 +1,37 @@
+.sample-page {
+    min-width: 600px;
+}
+
+.yellow {
+    /* not themable */
+    color: #D67F3C;
+}
+
+.pipelines-page {
+    height: 800px;
+}
+
+.ms-Icon--Trophy2Solid {
+    color: purple;
+}
+
+.ms-Icon--ReadingModeSolid {
+    color: #508c9f;
+}
+
+#properties-panel-data tr:nth-child(even) {background: #CCC}
+#properties-panel-data tr:nth-child(odd) {background: #FFF}
+
+table#properties-panel-data tr td {
+    padding: 3px 4px;
+}
+
+table#properties-panel-data tr {
+    line-height: 2;
+    padding: 5px;
+}
+
+
+#__bolt-goback{
+    margin-bottom: 20px !important;
+}
